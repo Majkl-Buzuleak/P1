@@ -1,0 +1,118 @@
+/* -------------------------------------------------------------------------- */
+/*                                   header                                   */
+/* -------------------------------------------------------------------------- */
+@media screen and (min-width: 1200px) {
+    .dropdown-nav {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    /* HEADER */
+    nav .nav-ul {
+        display: none;
+    }
+
+    .toggle-nav {
+        display: flex;
+    }
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                 hero slider                                */
+/* -------------------------------------------------------------------------- */
+@media screen and (max-width: 900px) {
+    .carousel img {
+        width: calc(100% / 2);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .thumbnail {
+        justify-content: start;
+    }
+
+    .slider .list .item .content {
+        top: 10%
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .carousel img {
+        width: 100%;
+    }
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                  lightbox                                  */
+/* -------------------------------------------------------------------------- */
+@media (max-width: 768px) {
+    .gallery-container {
+        width: 100%;
+    }
+
+    .gallery-item {
+        flex-basis: 50%;
+    }
+
+    .lightbox-content {
+        width: 80%;
+    }
+}
+
+@media (max-width: 480px) {
+    .gallery-item {
+        flex-basis: 100%;
+    }
+    .lightbox-content {
+        width: 90%;
+        /* margin: 20px auto; */
+        height: 50%;
+    }
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                    about                                   */
+/* -------------------------------------------------------------------------- */
+@media (max-width: 1100px) {
+    .about-container {
+        flex-direction: column;
+    }
+
+    .about-text {
+        width: 100%;
+    }
+
+    .about-img {
+        width: 100%;
+    }
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                contact form                                */
+/* -------------------------------------------------------------------------- */
+@media screen and (max-width: 768px) {
+    /* contact form*/
+    #contact-form-container {
+        flex-wrap: wrap;
+        margin-top: 20%;
+    }
+
+    #contact-form {
+        width: 100%;
+    }
+
+    #contact-form-img {
+        aspect-ratio: 4 / 5;
+        width: 100%;
+    }
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                   footer                                   */
+/* -------------------------------------------------------------------------- */
+@media (max-width: 768px) {
+    footer {
+        flex-direction: column;
+    }
+}

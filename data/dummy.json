@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Behind The Scenes",
+        "img": "../data/img/behind-the-scenes.jpg",
+        "text": "Welcome behind the scenes at P1, the photo studio known for its creative and professional photos. Today we give you an exclusive insight into our working day and show you how our impressive photos are created. <br /> <br /> At P1, the day starts early. Our team meets for a short briefing to discuss the planned shoots and the specific requirements of our clients. Each shoot is carefully prepared - from set design to choosing the right lighting and coordinating outfits with our clients. <br /> <br /> During the shoot, our photographers work closely with the models to capture the perfect mood. We use state-of-the-art camera equipment and lighting techniques to ensure that every shot is perfect. After the shoot, it's off to post-production, where our photo editors optimize the photos and add the finishing touches. <br /> <br /> Our goal at P1 is to provide each client with a unique and memorable experience. Come along and see for yourself how we bring your vision to life!"
+    },
+    {
+        "id": 2,
+        "title": "From the Idea to the Finished Image",
+        "img": "../data/img/passion.jpg",
+        "text": "The creative process at P1 is a fascinating interplay of brainstorming, planning and technical implementation. It all starts with an initial meeting with the customer, in which we discuss their ideas and wishes. We then design a concept that is precisely tailored to the customer's needs. <br /> <br /> As soon as the concept is finalized, we start planning. We choose the right location for the shoot, whether in the studio or at a special location. We carefully select the props, costumes and make-up artists in order to perfectly implement the concept. <br /> <br /> On the day of the shoot, we implement the concept with a lot of passion and creativity. Our team works hand in hand to achieve the best possible results. The shoot is followed by post-production, where we professionally edit and optimize the images. <br /> <br /> The creative process at P1 is a journey full of inspiration and dedication. We love to create great images together with our clients."
+    },
+    {
+        "id": 3,
+        "title": "P1 Keeps its Finger on the Pulse",
+        "img": "../data/img/equipment.jpg",
+        "text": "Photography is constantly evolving, and at P1 we always strive to keep our finger on the pulse. In this blog article, we take a look at the latest trends and technologies in the photography scene. <br /><br /> A big trend at the moment is the use of drones for stunning aerial shots. At P1, we have added state-of-the-art drones to our equipment to provide our clients with breathtaking perspectives. <br /><br />Another trend is 360-degree photography, which enables immersive experiences. We have invested in the latest 360-degree camera technology and now offer our customers the opportunity to experience their images interactively. <br /> <br /> There are also exciting developments in the area of post-processing. With advanced software and AI technologies, we can process images even more precisely and quickly. These innovations allow us to stay at the cutting edge and deliver the best results to our customers. <br /> <br /> Stay tuned, because there's always something new to discover at P1."
+    },
+    {
+        "id": 4,
+        "title": "The Art of Portrait Photography",
+        "img": "../data/img/portrait.jpg",
+        "text": "Portrait photography is a special art form, and at P1 we have made it our mission to perfect this art. Every portrait tells a unique story, and our goal is to capture the personality and individuality of each person. <br /><br /> The key to a great portrait lies in the connection between photographer and model. At P1, we take the time to get to know our models and create an atmosphere of trust. This allows us to create authentic and expressive images. <br /><br We work with professional light sets and use special techniques to achieve the best results. Our photographers are experts in finding the right light and the perfect angle to show the model's personality in the right light. <br /> <br /> We work with professional light sets and use special techniques to achieve the best results. Our photographers are experts in finding the right light and the perfect angle to show the model's personality in the right light. <br /> <br /> During post-production, we take care to preserve the model's natural beauty and only make subtle retouching. Every portrait that leaves our studio is a work of art that we are proud of."
+    },
+    {
+        "id": 5,
+        "title": "Life of a Photographer at P1",
+        "img": "../data/img/photographer.jpg",
+        "text": "The everyday life of a photographer at P1 is varied and exciting. No two days are the same, and that's what makes our job so exciting. Today we take you on a typical working day in our photo studio. <br /><br /> Our day starts with preparing the equipment and a short team meeting to discuss the day's tasks. Every shoot requires thorough planning, so we check all the details and make sure everything is ready. <br /><br The shoot itself is the highlight of the day. Whether it's a fashion shoot, a corporate portrait or an event, we always do our best to realize the client's vision perfectly. After the shoot, we upload the images to our computers and start selecting and editing the best shots. <br /> <br /> Between shoots, we take time for further training and creative work. We experiment with new techniques and ideas to constantly improve our skills. <br /> <br /> The day often ends late, but the satisfaction of our clients and the joy of our work make every moment worthwhile. At P1, photography is not just a profession, it's a passion."
+    }
+]

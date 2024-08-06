@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Contact</title>
+        <base href="/" />
+        <link rel="stylesheet" href="../styles/style.css" />
+        <link rel="stylesheet" href="../styles/media-queries.css" />
+        <script defer src="../scripts/header.js"></script>
+        <script defer src="../scripts/contact.js"></script>
+    </head>
+    <body>
+        <header class="sticky-header">
+            <nav>
+                <div class="logo">
+                    <a href="../index.html"
+                        ><img src="../assets/images/icons/p1.svg" alt="P1"
+                    /></a>
+                </div>
+                <ul class="nav-ul">
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../index.html#services">Services</a></li>
+                    <li><a href="../index.html#about">About Us</a></li>
+                    <li><a href="./portfolio.html">Portfolio</a></li>
+                    <li><a href="./blog.html">Blog</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+                <div class="toggle-nav">
+                    <img src="../assets/images/icons/menu.svg" alt="" />
+                </div>
+            </nav>
+            <div class="dropdown-nav">
+                <ul class="nav-ul">
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../index.html#services">Services</a></li>
+                    <li><a href="../index.html#about">About Us</a></li>
+                    <li><a href="./portfolio.html">Portfolio</a></li>
+                    <li><a href="./blog.html">Blog</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+        </header>
+        <main>
+            <section
+                id="contact-form-container"
+                class="hide-content center-content-for-fade-in"
+            >
+                <form id="contact-form" novalidate>
+                    <h2 class="h2-heading">Get In Touch</h2>
+                    <div>
+                        <input
+                            id="full-name"
+                            class="input-field"
+                            type="text"
+                            placeholder="Full Name"
+                        />
+                        <label for="full-name">Full Name</label>
+                    </div>
+                    <div>
+                        <input
+                            id="email"
+                            class="input-field"
+                            type="email"
+                            placeholder="Email"
+                        />
+                        <label for="email">Email</label>
+                    </div>
+                    <div>
+                        <input
+                            id="adress"
+                            class="input-field"
+                            type="text"
+                            placeholder="Adress"
+                        />
+                        <label for="adress">Adress</label>
+                    </div>
+                    <div>
+                        <input
+                            id="zip-code"
+                            class="input-field"
+                            type="text"
+                            placeholder="ZIP code"
+                        />
+                        <label for="zip-code">ZIP code</label>
+                    </div>
+                    <div>
+                        <input
+                            id="city"
+                            class="input-field"
+                            type="text"
+                            placeholder="City"
+                        />
+                        <label for="city">City</label>
+                    </div>
+                    <div>
+                        <textarea
+                            id="text-area"
+                            class="input-field"
+                            placeholder="Tell us about your project"
+                            rows="15"
+                        ></textarea>
+                        <label for="text-area">Message</label>
+                    </div>
+                    <small class="submit-error"></small>
+                    <button class="primary-btn" type="submit">Submit</button>
+                </form>
+                <div id="contact-form-img" class="hide-content">
+                    <img
+                        src="../assets/images/contact/contact.jpg"
+                        alt=""
+                    />
+                </div>
+            </section>
+        </main>
+        <footer>
+            <div class="divider"></div>
+            <img src="../assets/images/icons/p1.svg" alt="" />
+            <ul class="footer-ul">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../index.html#services">Services</a></li>
+                <li><a href="../index.html#about">About Us</a></li>
+            </ul>
+            <ul class="footer-ul">
+                <li><a href="./portfolio.html">Portfolio</a></li>
+                <li><a href="./blog.html">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <ul class="footer-ul">
+                <li><a href="#">Impress</a></li>
+                <li><a href="#">Privacy Policy</a></li>
+            </ul>
+            <div class="divider"></div>
+        </footer>
+    </body>
+</html>
